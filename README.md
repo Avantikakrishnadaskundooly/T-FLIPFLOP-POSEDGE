@@ -41,9 +41,9 @@ From the above characteristic table, we can directly write the next state equati
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by:Karthic U
+Developed by: Avantika Krishnadas Kundooly
 
-RegisterNumber: 212224040151
+RegisterNumber: 212224040040
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
